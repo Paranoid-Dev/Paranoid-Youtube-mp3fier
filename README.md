@@ -1,5 +1,5 @@
 # Paranoid Youtube mp3fier
-Youtube to mp3 downloader program for Windows
+Youtube to mp3 downloader and audio normalizer program for Windows
 
 ## Dependency
 [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-US/download/details.aspx?id=5555)
