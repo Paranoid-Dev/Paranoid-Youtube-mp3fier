@@ -9,3 +9,5 @@ mshta.exe (You _may_ have to install Internet explorer for this to work.. sorry 
 ## Discord
 [discord.gg/vuyt6HSSFb](https://discord.gg/vuyt6HSSFb)
 Get the `Paranoid Programmer` role to join the (yet small) Paranoid community
+## Download
+Download from [here](https://github.com/Paranoid-Dev/Paranoid-Youtube-mp3fier/releases/download/v1.0.0/Paranoid-Youtube-mp3fier.exe)
