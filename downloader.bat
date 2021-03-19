@@ -9,5 +9,4 @@ for %%f in (*.webm) do (
 ffmpeg -i "%%f" "%%~nf".mp3
 del "%%f"
 )
-mp3gain -r *.mp3
-
+mp3gain -r -k *.mp3
